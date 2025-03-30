@@ -37,3 +37,5 @@ Receive warnings before deleting any parts or products.
 UML Diagrams 
 
 [UML Class Diagram.pdf](https://github.com/user-attachments/files/19524481/UML.Class.Diagram.pdf)
+
+![UML Diagram](https://github.com/user-attachments/assets/003d3c31-8429-406c-9836-fb3b4f4f73a9)
