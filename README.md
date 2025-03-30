@@ -33,3 +33,7 @@ Receive warnings before deleting any parts or products.
 ![Delete product](https://github.com/user-attachments/assets/3828d46d-8fd3-4b1b-bfb7-9c2d4982ad6c)
 
 ![Delete part](https://github.com/user-attachments/assets/0378f2d3-52ce-4023-8f37-e2110cc74a83)
+
+UML Diagrams 
+
+[UML Class Diagram.pdf](https://github.com/user-attachments/files/19524481/UML.Class.Diagram.pdf)
